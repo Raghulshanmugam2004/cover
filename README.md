@@ -129,10 +129,12 @@ Write HTML and CSS Code for designing book cover page and execute them
 ```
 
 ## Output:
-![OUTPUT](./book.png)
+![image](https://user-images.githubusercontent.com/119561118/213367358-1f2c0dd7-a54a-42d9-affb-870dac38552a.png)
+
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](./html validator.png)
+![image](https://user-images.githubusercontent.com/119561118/213367647-4545f75f-84ad-415d-aabb-6078866425d7.png)
+
 
 ## Result:
 The program for designing book cover page using HTML and CSS is executed successfully
